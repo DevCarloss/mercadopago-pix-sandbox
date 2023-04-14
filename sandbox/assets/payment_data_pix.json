@@ -1,0 +1,9 @@
+{
+    "transaction_amount": 0.00 ,
+    "description": "",
+    "payment_method_id": "pix",
+    "payer": {
+      "email": "",
+      "first_name": ""
+    }
+}
